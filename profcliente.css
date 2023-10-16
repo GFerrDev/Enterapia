@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #62d862;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    background-clip:border-box;
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    text-align: center;
+}
+input{
+    text-align: center;
+    border-radius: 5px;
+}
+
+legend{
+    margin-top: 5%;
+font-size: 1.5em;
+}
+
+label{
+font-size: 1.2em;
+font-family: Arial, Helvetica, sans-serif;    
+}
+
+
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+    font-weight: 900;
+    text-transform: uppercase;
+}
